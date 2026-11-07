@@ -14,9 +14,16 @@
 
 ## Sobre a EnArTec
 
-A **EnArTec — Engenharia, Arquitetura e Tecnologia** desenvolve soluções digitais para apoiar a operação e o crescimento de empresas. Nossa abordagem integra **engenharia de software, arquitetura de sistemas, infraestrutura, automação e segurança** em plataformas robustas, evolutivas e preparadas para diferentes segmentos de negócio.
+# EnArTec — Engenharia, Arquitetura e Tecnologia
 
-Construímos uma plataforma com **núcleo comum e módulos configuráveis por segmento**, contemplando operação local, integração com serviços em nuvem e estratégias de continuidade de negócio.
+A **EnArTec - Engenharia, Arquitetura e Tecnologia** é uma empresa de tecnologia especializada em soluções inteligentes de gestão empresarial e automação comercial.
+
+Oferecemos uma **plataforma própria, integrada e modular de automação comercial multissetorial, multiempresa e multiunidade**, projetada para atender pequenos e médios negócios de diferentes segmentos econômicos.
+
+Nosso ecossistema tecnológico integra processos comerciais, administrativos, financeiros e operacionais, possibilitando a gestão eficiente e centralizada de empresas e suas unidades, respeitando as necessidades específicas de cada segmento.
+
+Por meio da comercialização, implantação, suporte e evolução contínua de nossas soluções, buscamos simplificar a gestão empresarial, otimizar operações e impulsionar o crescimento dos negócios com tecnologia, automação e inteligência artificial.
+
 
 ## O que construímos
 
