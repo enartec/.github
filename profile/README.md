@@ -28,7 +28,7 @@ Nosso ecossistema reúne processos comerciais, administrativos, financeiros e op
 
 ## Uma plataforma. Diferentes negócios.
 
-| Solução setorial | Exemplos de operações contempladas no planejamento |
+| Verticais de Negócio | Exemplos de operações contempladas no planejamento |
 | --- | --- |
 | 🏪 **Comércio e varejo** | Depósitos de materiais, mercados, mercearias e lojas |
 | 🥖 **Panificação e confeitaria** | Padarias, confeitarias e operações com produção própria |
