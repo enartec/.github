@@ -28,16 +28,20 @@ Nosso ecossistema reúne processos comerciais, administrativos, financeiros e op
 
 ## Uma plataforma. Diferentes negócios.
 
-| Verticais de Negócio | Exemplos de operações contempladas no planejamento |
-| --- | --- |
-| 🏪 **Comércio e varejo** | Depósitos de materiais, mercados, mercearias e lojas |
-| 🥖 **Panificação e confeitaria** | Padarias, confeitarias e operações com produção própria |
-| 🍽️ **Alimentação e food service** | Restaurantes self-service, lanchonetes, hamburguerias e pizzarias |
-| 🔧 **Serviços automotivos** | Oficinas mecânicas e gestão de ordens de serviço |
-| ✂️ **Beleza e cuidados pessoais** | Barbearias, salões e serviços por agendamento |
-| 🧩 **Outros segmentos** | Novos módulos conforme necessidades comerciais validadas |
+A plataforma EnArTec tem como visão atender **oito verticais de negócio**, começando pelas necessidades comerciais já identificadas e expandindo por demanda validada.
 
-> **Estratégia de produto:** construir capacidades compartilhadas e habilitar módulos específicos conforme o segmento, evitando sistemas independentes para cada cliente.
+| Verticais de Negócio | Segmentos previstos |
+| --- | --- |
+| 🏪 **Comércio Varejista** | Depósitos de materiais de construção, mercados, mercearias e lojas |
+| 🩺 **Saúde** | Consultórios odontológicos, farmácias de manipulação, drogarias, spas, fisioterapia, pilates, yoga e psicologia |
+| 🎓 **Educação** | Escolas particulares, cursos técnicos e profissionalizantes, ensino online, escolas de idiomas, música, dança, artes, culinária, design, teatro e esportes |
+| 🍽️ **Alimentação e Food Service** | Restaurantes, bares, lanchonetes, padarias, cafeterias, delivery de comida, pizzarias, hamburguerias, sorveterias, confeitarias, delivery especializado, marmitas e refeições prontas |
+| 🛠️ **Serviços** | Serviços automotivos, salões de beleza, barbearias, academias, hotéis e pousadas |
+| 🚚 **Distribuição** | Distribuidores de bebidas e alimentos, materiais de construção, cosméticos, produtos de limpeza, autopeças, papel e embalagens, ferramentas e produtos para pet shops |
+| 🏭 **Indústria Leve** | Confecções, fábricas de móveis (marcenarias), gráficas, fabricantes de brinquedos, pequenas indústrias de eletrônicos, embalagens, calçados, alimentos processados, bebidas artesanais, papel e celulose, produtos de limpeza, utensílios domésticos, artigos esportivos, joias e bijuterias, produtos plásticos, têxteis, perfumaria, instrumentos musicais e materiais escolares |
+| 🌱 **Agronegócio** | Produtores de grãos, frutas, hortaliças, café, cacau, leite, mel, aves, suínos, peixes, flores e plantas; agroindústrias, sementarias e casas agropecuárias |
+
+> **Estratégia de produto:** uma plataforma comum, multiempresa e multiunidade, com capacidades reutilizáveis e módulos especializados por vertical. A inclusão de um segmento no planejamento **não representa produto disponível**. Cada expansão depende de validação de demanda, requisitos específicos e obrigações regulatórias aplicáveis.
 
 ## Como a plataforma é concebida
 
